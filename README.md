@@ -1,5 +1,4 @@
-````md
-# 🧠 MRI-Based Brain Tumor Classification using Deep Learning and Grad-CAM
+# MRI-Based Brain Tumor Classification using Deep Learning and Grad-CAM
 
 ## 📌 Overview
 
@@ -9,10 +8,10 @@ This project presents an Explainable AI-based Computer Aided Diagnosis (CAD) Sys
 
 The framework utilizes multiple state-of-the-art Convolutional Neural Network (CNN) architectures with Transfer Learning to classify MRI scans into:
 
-- Glioma Tumor
-- Meningioma Tumor
-- Pituitary Tumor
-- No Tumor
+* Glioma Tumor
+* Meningioma Tumor
+* Pituitary Tumor
+* No Tumor
 
 To improve transparency and interpretability, Grad-CAM (Gradient-weighted Class Activation Mapping) is integrated to visualize the regions responsible for model predictions.
 
@@ -24,8 +23,8 @@ Additionally, a Streamlit-based web application is developed for real-time MRI i
 
 Brain tumors are caused by abnormal cell growth inside the brain. Tumors may be:
 
-- Benign (non-cancerous)
-- Malignant (cancerous)
+* Benign (non-cancerous)
+* Malignant (cancerous)
 
 Malignant tumors can become fatal depending on their location and growth rate. Therefore, timely and accurate diagnosis is essential.
 
@@ -37,9 +36,7 @@ The objective of this project is to build a Deep Learning-based system capable o
 
 The proposed framework follows the pipeline below:
 
-```text
 MRI Scan → Image Preprocessing → Data Augmentation → CNN-Based Transfer Learning Models → Performance Evaluation → Grad-CAM Visualization → Streamlit Deployment
-````
 
 ---
 
@@ -341,6 +338,3 @@ The developed framework can serve as a valuable Computer Aided Diagnosis (CAD) t
 **Surjosnath Guha Thakurta**
 M.Sc. Computer Science
 Deep Learning | Computer Vision | Explainable AI | Medical Imaging
-
-```
-```
