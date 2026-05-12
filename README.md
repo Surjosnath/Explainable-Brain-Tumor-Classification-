@@ -300,12 +300,19 @@ streamlit run app.py
 # 📌 Key Highlights of the Project
 
 ✅ Multi-class brain tumor classification
+
 ✅ Transfer learning with six CNN architectures
+
 ✅ MRI image preprocessing pipeline
+
 ✅ Data augmentation for improved generalization
+
 ✅ Grad-CAM explainability integration
+
 ✅ High classification accuracy (~98.7%)
+
 ✅ Streamlit-based deployment
+
 ✅ Medical AI + Explainable AI integration
 
 ---
@@ -336,5 +343,7 @@ The developed framework can serve as a valuable Computer Aided Diagnosis (CAD) t
 # 👨‍💻 Author
 
 **Surjosnath Guha Thakurta**
+
 M.Sc. Computer Science
+
 Deep Learning | Computer Vision | Explainable AI | Medical Imaging
